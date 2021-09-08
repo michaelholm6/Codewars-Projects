@@ -1,6 +1,6 @@
 #include <vector>
 #include <iostream>
-
+#include <tgmath.h>
 std::vector<int> snail(const std::vector<std::vector<int>>& snail_map) {
 	std::vector <int> answer;
 	int side = snail_map[0].size();
