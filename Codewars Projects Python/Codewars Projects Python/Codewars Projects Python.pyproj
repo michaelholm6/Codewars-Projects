@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f0c46a59-a926-4ad7-a407-6f614b7c2691</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Codewars_Projects_Python.py</StartupFile>
+    <StartupFile>String_Splitter_Method.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Codewars_Projects_Python.py" />
+    <Compile Include="String_Splitter_Method.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
