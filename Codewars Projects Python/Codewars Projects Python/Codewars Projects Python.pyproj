@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f0c46a59-a926-4ad7-a407-6f614b7c2691</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>String_Splitter_Method.py</StartupFile>
+    <StartupFile>Seconds_To_Readable.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Find_Block_Volume.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Seconds_To_Readable.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="String_Splitter_Method.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
